@@ -19,5 +19,5 @@ First get the latest version:
     git pull
     git submodule update
 
-And then type `make' in the respective program to compile again.
+And then type `make` in the respective program to compile again.
 
